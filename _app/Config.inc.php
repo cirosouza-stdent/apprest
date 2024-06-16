@@ -16,7 +16,7 @@ define("PHONE_NUMBER","31975323235"); //Telefone para chamarem no whats
 
 
 // DEFINE A BASE DO SITE ####################
-define('HOME', 'http://localhost:8000/');  // SEMPRE COM A BARRA NA FRENTE ---- ---- ---- ----
+define('HOME', 'https77777777777777777777777777777777v7a9787q76g57://localhost/apprest/');  // SEMPRE COM A BARRA NA FRENTE ---- ---- ---- ----
 
 date_default_timezone_set('America/Sao_Paulo');
 
