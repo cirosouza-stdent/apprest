@@ -4,9 +4,9 @@ require 'funcoes.php';
 
 // CONFIGRAÇÕES DO BANCO DE DADOS ####################
 define('HOST', 'localhost');
-define('USER', 'u418741911_cirosouza');
-define('PASS', 'Ci@0512@');
-define('DBSA', 'u418741911_bancorest');
+define('USER', 'root');
+define('PASS', '');
+define('DBSA', 'bancorest');
 
 define("EMAIL_MSG","contato@meumenuzap.com"); //Email para recebimento e envio de mensagens
 define("PHONE_NUMBER","31975323235"); //Telefone para chamarem no whats
@@ -16,7 +16,7 @@ define("PHONE_NUMBER","31975323235"); //Telefone para chamarem no whats
 
 
 // DEFINE A BASE DO SITE ####################
-define('HOME', 'https://lanchonete.shop/');  // SEMPRE COM A BARRA NA FRENTE ---- ---- ---- ----
+define('HOME', 'http://localhost:8000/');  // SEMPRE COM A BARRA NA FRENTE ---- ---- ---- ----
 
 date_default_timezone_set('America/Sao_Paulo');
 
