@@ -8,6 +8,7 @@ $detect = new Mobile_Detect;
 $site = HOME;
 $login = new Login(3);
 if($login->CheckLogin()):
+    
 	$idusuar = $_SESSION['userlogin']['user_id'];
 	$lerbanco->ExeRead('ws_empresa', "WHERE user_id = :idcliente", "idcliente={$idusuar}");
 	if (!$lerbanco->getResult()):       

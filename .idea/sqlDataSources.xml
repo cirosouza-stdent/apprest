@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="e950fbc6-034b-4bba-aad8-ee256027ccd0" name="bancorest@localhost Mapping">
+      <data-sources db="e68c97b1-1a33-4dea-947b-579caffbd072" ddl="4de7c434-9b3e-4ced-9485-f757aab81716" />
+      <scope>
+        <node kind="schema" qname="bancorest" />
+      </scope>
+    </mapping>
+  </component>
+</project>
