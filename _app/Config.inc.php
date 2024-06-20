@@ -4,9 +4,9 @@ require 'funcoes.php';
 
 // CONFIGRAÇÕES DO BANCO DE DADOS ####################
 define('HOST', 'localhost');
-define('USER', 'u418741911_cirosouza');
-define('PASS', 'Ci@0512@');
-define('DBSA', 'bancu418741911_bancorest');
+define('USER', 'root');
+define('PASS', '');
+define('DBSA', 'bancorest');
 
 define("EMAIL_MSG","contato@meumenuzap.com"); //Email para recebimento e envio de mensagens
 define("PHONE_NUMBER","31975323235"); //Telefone para chamarem no whats
